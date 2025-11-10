@@ -17,6 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## 📸 Screenshot
 
-![Tampilan_Beranda](assets/screenshots/Tampilan_Beranda.png)
-![Tampilan_home 2](assets/screenshots/tampilan_rumah.png)
+![Tampilan_Home](https://raw.githubusercontent.com/pitriaulia/financeapp/main/assets/screenshots/Tampilan_Home.png)
+![Tampilan_home 2](https://raw.githubusercontent.com/pitriaulia/financeapp/main/assets/screenshots/Tampilan_home.png)
+
 
