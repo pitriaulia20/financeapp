@@ -17,5 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 
 ## 📸 Screenshot
 
-![Tampilan Home](assets/screenshots/Tangkapan layar (1345).png)
-![Tampilan Home](assets/screenshots/Tangkapan layar (1346).png)
+![Tampilan Home](assets/Tangkapan layar/Tangkapan layar (1345).png)
+![Tampilan Home](assets/Tangkapan layar/Tangkapan layar (1346).png)
